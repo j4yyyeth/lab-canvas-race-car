@@ -168,6 +168,7 @@ function gameOver() {
     ctx.fillText("You lose!", 150, 200)
   }
   
+  score = 0;
   obstaclesArray = []
 
 }
